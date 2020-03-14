@@ -1,0 +1,13 @@
+validation_training 0.3
+epochs_finalize 5
+epsilon 0.001
+base_num_fltrs 48
+downscale_factor 4
+batch_size 32
+epochs 5
+seed 123123
+U 150
+validation_set 0.1
+learning_rate_finalize 0.0001
+batch_size_finalize 16
+learning_rate 0.0001
